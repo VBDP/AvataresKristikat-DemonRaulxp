@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: textures 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Tex Mask
+    icon: {fileID: 2800000, guid: 97af7a443ea7e9742a2b68597bc060f0, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: masktex
+    labels: []
+  - name: Tex Sweater
+    icon: {fileID: 2800000, guid: c48eebcc0ea04754a99e495c095d7bbb, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: sweatertex
+    labels: []
+  - name: Hue Sweater
+    icon: {fileID: 2800000, guid: 22ff9ac79634cfd41b83b2b58d05a45c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: swehue
+    labels: []
+  - name: White Hats
+    icon: {fileID: 2800000, guid: cc1cffdccb6d15a458c305df161ffe30, type: 3}
+    type: 102
+    parameter:
+      name: hatsw
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Boots White
+    icon: {fileID: 2800000, guid: 18bde42a7e7e8b84fab5b569a8cbf0f2, type: 3}
+    type: 102
+    parameter:
+      name: bootsw
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

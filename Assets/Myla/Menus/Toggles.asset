@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Toggles
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Outfit
+    icon: {fileID: 2800000, guid: 0bb9424641744444fa2041b6298041ac, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: ee2c50d628c440e428e32a9184d2b784, type: 2}
+    subParameters: []
+    labels: []
+  - name: Accessories
+    icon: {fileID: 2800000, guid: 29ad347b5fdb1f2409f98a585a919f94, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f14fc4f326e14b74cba62fdadc0715a5, type: 2}
+    subParameters: []
+    labels: []
+  - name: Hair Style
+    icon: {fileID: 2800000, guid: 7c6d690d037e71e4d8f436c2a5596c64, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: ccc089c07b3e44b46b06d91c8a900246, type: 2}
+    subParameters: []
+    labels: []
+  - name: Body
+    icon: {fileID: 2800000, guid: f2d234bf5b7938148acb7c382f7230a2, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c4f2bfe03df5b94478a989ff6d5383ef, type: 2}
+    subParameters: []
+    labels: []
+  - name: Ears Styles
+    icon: {fileID: 2800000, guid: 26624218371b31e4b8888486415636a2, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 87cd13d540b8fb44c8b604566e0db56c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Outfit Colors
+    icon: {fileID: 2800000, guid: fc239b868ef86f94087bad300518901e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 905a765c2bb940d4b8fc2b03e4625008, type: 2}
+    subParameters: []
+    labels: []
+  - name: Contact
+    icon: {fileID: 2800000, guid: 95cefd3333a022146a8d8d09b1ac8c8b, type: 3}
+    type: 102
+    parameter:
+      name: contact
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

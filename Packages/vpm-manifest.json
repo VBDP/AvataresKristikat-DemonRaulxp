@@ -20,6 +20,9 @@
     },
     "dev.jetees.memoryoptimizer": {
       "version": "0.1.18"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.4"
     }
   },
   "locked": {
@@ -55,6 +58,12 @@
       "version": "0.1.18",
       "dependencies": {
         "com.vrchat.avatars": "^3.5.1"
+      }
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.4",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.5.2 < 3.9.X"
       }
     }
   }

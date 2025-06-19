@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Outfit
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Jacket
+    icon: {fileID: 2800000, guid: 34687cf92ccc79547890eb746825234d, type: 3}
+    type: 102
+    parameter:
+      name: jacket
+    value: 2
+    style: 0
+    subMenu: {fileID: 11400000}
+    subParameters: []
+    labels: []
+  - name: Remove Jacket Bottom
+    icon: {fileID: 2800000, guid: b491e22faf1bbcd44b37355690a5a9dc, type: 3}
+    type: 102
+    parameter:
+      name: jacket
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hoodie
+    icon: {fileID: 2800000, guid: d67e4117d690c6e4d8d1412a5352c684, type: 3}
+    type: 102
+    parameter:
+      name: jacket
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hoodie Down
+    icon: {fileID: 2800000, guid: cdfa6f1b03abf4143a51c8e45934849f, type: 3}
+    type: 102
+    parameter:
+      name: hoodied
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sweater
+    icon: {fileID: 2800000, guid: 9b63c258270649b4689f37839635fbcd, type: 3}
+    type: 102
+    parameter:
+      name: jacket
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Cropped Pants
+    icon: {fileID: 2800000, guid: 537346666865c0f41904c7e4b51a4b21, type: 3}
+    type: 102
+    parameter:
+      name: jeans
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shirt
+    icon: {fileID: 2800000, guid: e1096e56a46e98048a03572bceb51724, type: 3}
+    type: 102
+    parameter:
+      name: shirtless
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 2 Page
+    icon: {fileID: 2800000, guid: a4cca9de116dcb749adc371e21224c10, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 259246e17a178834cbc5711ec4ff9100, type: 2}
+    subParameters: []
+    labels: []

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Accessories 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Sidelip Piercing
+    icon: {fileID: 2800000, guid: f780e7cc117394d40b96d884a33a78cb, type: 3}
+    type: 102
+    parameter:
+      name: sidelip
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Nostril Piercing
+    icon: {fileID: 2800000, guid: 6751c06fdacc5cb45bcdb30389e93f8e, type: 3}
+    type: 102
+    parameter:
+      name: nostril
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 'Eyebrow Piercings '
+    icon: {fileID: 2800000, guid: 6aa79f07d02c8f749b0c9a7260671e38, type: 3}
+    type: 102
+    parameter:
+      name: eyebrowp
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bracelets
+    icon: {fileID: 2800000, guid: 7e1d8eb05ab42fb4bb42cee2191eab9f, type: 3}
+    type: 102
+    parameter:
+      name: bracciali
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hat
+    icon: {fileID: 2800000, guid: 574ac3f393d1722438458724fdf5b973, type: 3}
+    type: 102
+    parameter:
+      name: hats
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bucket Hat
+    icon: {fileID: 2800000, guid: 8dba7412849cf4e439eb7f5913f6fa4a, type: 3}
+    type: 102
+    parameter:
+      name: hats
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

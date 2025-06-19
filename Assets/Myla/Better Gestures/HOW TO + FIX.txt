@@ -1,0 +1,15 @@
+1. Simply Click on the avatar and drag the Better Gesture layer into the Playable Layers in the Avatar Descriptor where you find the FX layer and all that.
+
+2. if you already have toggle animations on gestures you can click on the geture animation controller you already have, click on example 'fist' 
+and drag the Better Fist animation into the motion you can see in inspector. although the first step is better.
+
+If you are still confused how to, look at the GIF on the Gumroad page for the gestures
+Gumroad Link: https://kirishop.gumroad.com/l/Better_Gestures
+
+**IF GESTURES ARE STUCK AFTER PUTTING THEM ON:**
+Locate where your FX Controller is at by clicking on your avatar in the Hierarchy Tab then scroll down in the Inspector Tab to where you see FX, 
+click on the FX so unity finds its location righ away, click on the FX (or double click) and go to the the Animator Tab, there you can see all the toggle animations and such that you avatar has, however you must click on the tiny setting wheel to the right of Right Hand, Left Hand and AllParts, and set the mask as None.
+
+why its stuck is because the game thinks the FX animation is the gesture layer if its masked after adding in a custom gesture layer for some reason, it should always be removed and this is how to fix it
+
+If you find any issues dont hessitate to join my discord and ask me for help <3

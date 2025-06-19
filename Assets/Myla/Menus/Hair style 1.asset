@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Hair style 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Emission Strength
+    icon: {fileID: 2800000, guid: b2cd88404c779544fb1058ad5afc198e, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: ems
+    labels: []
+  - name: Hue Emission/Tattoo
+    icon: {fileID: 2800000, guid: a8b2bac8523ba074999c81cb867c4c13, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000}
+    subParameters:
+    - name: huee
+    labels: []
+  - name: Hue Eyes
+    icon: {fileID: 2800000, guid: 9deded62545c3b14783d9256e7cdfc91, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: hueeyes
+    labels: []
+  - name: Eyes Saturation
+    icon: {fileID: 2800000, guid: 899feef640e3f5643b33a7f9b1aca561, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: eyesat
+    labels: []
