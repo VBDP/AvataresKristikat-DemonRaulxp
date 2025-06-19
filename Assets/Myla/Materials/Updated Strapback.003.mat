@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Updated Strapback.003
-  m_Shader: {fileID: 4800000, guid: b7b8103e7273b3b41accca62b6f4ad77, type: 3}
+  m_Shader: {fileID: 4800000, guid: 5cd165492ca64ca4abfab5543be0acc2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []

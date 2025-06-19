@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Pants
-  m_Shader: {fileID: 4800000, guid: e149cc56db3aa1b4490df46938b321e7, type: 3}
+  m_Shader: {fileID: 4800000, guid: ed94cbf4541ee954791af5a70f79f4db, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -16,7 +16,6 @@ Material:
   - COLOR_GRADING_HDR_3D
   - MOCHIE_PBR
   - VIGNETTE_MASKED
-  - _EMISSION
   - _GLOSSYREFLECTIONS_OFF
   - _LIGHTINGMODE_FLAT
   - _RIM2STYLE_POIYOMI
@@ -28,12 +27,11 @@ Material:
   m_CustomRenderQueue: 2000
   stringTagMap:
     AllLockedGUIDS: d62fe43b164ae0b469842d232ff67f9d
-    OriginalKeywords: COLOR_GRADING_HDR_3D MOCHIE_PBR VIGNETTE_MASKED _EMISSION _GLOSSYREFLECTIONS_OFF
+    OriginalKeywords: COLOR_GRADING_HDR_3D MOCHIE_PBR VIGNETTE_MASKED _GLOSSYREFLECTIONS_OFF
       _LIGHTINGMODE_FLAT _RIM2STYLE_POIYOMI _RIMSTYLE_POIYOMI _STOCHASTICMODE_DELIOT_HEITZ
     OriginalShader: .poiyomi/Old Versions/8.1/Poiyomi Toon
     OriginalShaderGUID: 5ca92f1e9fc35504aba297fd1acd62df
     RenderType: Opaque
-    _EmissionStrengthAnimated: 1
   disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
@@ -208,7 +206,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMask:
-        m_Texture: {fileID: 2800000, guid: 8bf5e47c740ad6f4085d4053c7f6a55e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2c89e22e1ddaf0e449eff0cfdd4eaf1c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMask1:
@@ -324,7 +322,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 197f890237b2d5b4e9ddef5fe0896526, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7657ff538524e804483fd1ce29d1be9c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Matcap:
@@ -1206,7 +1204,7 @@ Material:
     - _EmissionAL3Enabled: 0
     - _EmissionAL3MultipliersBand: 0
     - _EmissionAL3StrengthBand: 0
-    - _EmissionBaseColorAsMap: 1
+    - _EmissionBaseColorAsMap: 0
     - _EmissionBaseColorAsMap1: 0
     - _EmissionBaseColorAsMap2: 0
     - _EmissionBaseColorAsMap3: 0
@@ -1323,7 +1321,7 @@ Material:
     - _EnableDissolveAudioLink: 0
     - _EnableDistortion: 0
     - _EnableDistortionAudioLink: 0
-    - _EnableEmission: 1
+    - _EnableEmission: 0
     - _EnableEmission1: 0
     - _EnableEmission2: 0
     - _EnableEmission3: 0
@@ -2984,7 +2982,7 @@ Material:
     - m_start_MainHueShift: 0
     - m_start_MainHueShiftGlobalMask: 0
     - m_start_MainVertexColors: 0
-    - m_start_Matcap2: 0
+    - m_start_Matcap2: 1
     - m_start_Matcap3: 0
     - m_start_Matcap4: 0
     - m_start_OutlineAudioLink: 0
@@ -3038,7 +3036,7 @@ Material:
     - m_start_emission1Options: 0
     - m_start_emission2Options: 0
     - m_start_emission3Options: 0
-    - m_start_emissionOptions: 1
+    - m_start_emissionOptions: 0
     - m_start_flipBook: 0
     - m_start_glitter: 0
     - m_start_internalparallax: 0
@@ -3054,7 +3052,7 @@ Material:
     - m_start_reflectionRim: 0
     - m_start_rgbanormals: 0
     - m_start_rim2LightOptions: 0
-    - m_start_rimLight1Options: 0
+    - m_start_rimLight1Options: 1
     - m_start_stylizedSpec: 0
     - m_start_subsurfaceScattering: 0
     - m_start_udimdiscardOptions: 0

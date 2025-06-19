@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SOCKS.011
-  m_Shader: {fileID: 4800000, guid: eabde0317f238e747b489a80dfccdff4, type: 3}
+  m_Shader: {fileID: 4800000, guid: fc3e49aba50a320449db9069cb2f5128, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -26,7 +26,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: 3000
   stringTagMap:
     AllLockedGUIDS: 8a6f1782340689a46b33b26a87970cc4
     OriginalKeywords: COLOR_GRADING_HDR MOCHIE_PBR POI_MATCAP0 VIGNETTE_MASKED _EMISSION
@@ -34,7 +34,8 @@ Material:
       _STOCHASTICMODE_DELIOT_HEITZ
     OriginalShader: .poiyomi/Old Versions/8.1/Poiyomi Toon
     OriginalShaderGUID: 5ca92f1e9fc35504aba297fd1acd62df
-    RenderType: Opaque
+    RenderType: Transparent
+    _AlphaModAnimated: 1
     _EmissionHueShiftAnimated: 1
     _EmissionStrengthAnimated: 1
     _MainHueShiftAnimated: 1
@@ -660,14 +661,14 @@ Material:
     - _AlphaFresnelSharpness: 0.5
     - _AlphaFresnelWidth: 0.5
     - _AlphaGlobalMask: 0
-    - _AlphaGlobalMaskBlendType: 2
+    - _AlphaGlobalMaskBlendType: 7
     - _AlphaMaskInvert: 0
     - _AlphaMaskScale: 1
     - _AlphaMaskUV: 0
     - _AlphaMaskValue: 0
     - _AlphaMipScale: 0.25
-    - _AlphaMod: 0
-    - _AlphaPremultiply: 0
+    - _AlphaMod: -0.1
+    - _AlphaPremultiply: 1
     - _AlphaSharpenedA2C: 0
     - _AlphaTextureStochastic: 0
     - _AlphaTextureUV: 0
@@ -930,7 +931,7 @@ Material:
     - _CubeMapUVMode: 1
     - _CubeMapWorldNormalsStrength: 1
     - _CubemapBlendType: 0
-    - _Cull: 0
+    - _Cull: 2
     - _CurvFix: 1
     - _CurvatureU: 0
     - _CurvatureV: 0
@@ -1197,7 +1198,7 @@ Material:
     - _DistortionStrength1AudioLinkBand: 0
     - _DistortionStrengthAudioLinkBand: 0
     - _DistortionUvToDistort: 0
-    - _DstBlend: 0
+    - _DstBlend: 10
     - _DstBlendAlpha: 1
     - _EmissionAL0Enabled: 0
     - _EmissionAL0MultipliersBand: 0
@@ -2085,7 +2086,7 @@ Material:
     - _MochieSpecularStrengthGlobalMask: 0
     - _MochieSpecularStrengthGlobalMaskBlendType: 2
     - _MochieSpecularTintThemeIndex: 0
-    - _Mode: 0
+    - _Mode: 3
     - _ModelAngleMax: 90
     - _ModelAngleMin: 45
     - _MultilayerMathBlurMapUV: 0
@@ -2713,7 +2714,7 @@ Material:
     - _VoronoiSpace: 0
     - _VoronoiType: 1
     - _ZTest: 4
-    - _ZWrite: 1
+    - _ZWrite: 0
     - _glitterFrequencyLinearEmissive: 20
     - footer_discord: 0
     - footer_github: 0
@@ -2926,7 +2927,7 @@ Material:
     - m_specialFXCategory: 1
     - m_start_ALDecalSpectrum: 0
     - m_start_ALVolumeColor: 0
-    - m_start_Alpha: 0
+    - m_start_Alpha: 1
     - m_start_AlphaGlobalMask: 1
     - m_start_Aniso: 0
     - m_start_BeatsaberBloomFog: 0
@@ -3627,7 +3628,7 @@ Material:
     - _EmissionAL2StrengthMod: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionAL3Multipliers: {r: 1, g: 1, b: 0, a: 0}
     - _EmissionAL3StrengthMod: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0.64705884, g: 0.3529412, b: 0.99215686, a: 1}
+    - _EmissionColor: {r: 0.99215686, g: 0.3529412, b: 0.4627451, a: 1}
     - _EmissionColor1: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor2: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor3: {r: 1, g: 1, b: 1, a: 1}

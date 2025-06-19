@@ -12,4 +12,55 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: NSFW
   m_EditorClassIdentifier: 
-  controls: []
+  Parameters: {fileID: 0}
+  controls:
+  - name: Remove Top
+    icon: {fileID: 2800000, guid: 692ad69dd3a5d0241ad2314e58b00e29, type: 3}
+    type: 102
+    parameter:
+      name: top
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Remove Pants
+    icon: {fileID: 2800000, guid: 7295bc6e92ca0644c8405bcb0590e517, type: 3}
+    type: 102
+    parameter:
+      name: pants
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bra
+    icon: {fileID: 2800000, guid: 1623bb64dcce1764ab30ece70b70b5dc, type: 3}
+    type: 102
+    parameter:
+      name: bra
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Panty
+    icon: {fileID: 2800000, guid: 5d52bc5595809ad429a9af1661754980, type: 3}
+    type: 102
+    parameter:
+      name: underwear
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pasties
+    icon: {fileID: 2800000, guid: 66154fa772f8ecc408933d4e00d988fa, type: 3}
+    type: 102
+    parameter:
+      name: pasties
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

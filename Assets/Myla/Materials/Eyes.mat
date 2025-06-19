@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Eyes
-  m_Shader: {fileID: 4800000, guid: ab3c85e9f1af94f4da1ec27e538b3703, type: 3}
+  m_Shader: {fileID: 4800000, guid: 1dc9efaee9a937c488210355d02bbbc9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -329,7 +329,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b741912ab8679414dabda20785bf2022, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1fe980d7d22862f489d0f89de789569a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Matcap:
@@ -1850,7 +1850,7 @@ Material:
     - _MainHueALMotionSpeed: 1
     - _MainHueGlobalMask: 0
     - _MainHueGlobalMaskBlendType: 2
-    - _MainHueShift: 0.0165
+    - _MainHueShift: 0
     - _MainHueShiftReplace: 1
     - _MainHueShiftSpeed: 0
     - _MainHueShiftToggle: 1
@@ -2926,7 +2926,7 @@ Material:
     - m_specialFXCategory: 1
     - m_start_ALDecalSpectrum: 0
     - m_start_ALVolumeColor: 0
-    - m_start_Alpha: 1
+    - m_start_Alpha: 0
     - m_start_AlphaGlobalMask: 0
     - m_start_Aniso: 0
     - m_start_BeatsaberBloomFog: 0
@@ -2937,7 +2937,7 @@ Material:
     - m_start_CenterOutDissolve: 0
     - m_start_ColorAdjust: 0
     - m_start_CubeMap: 0
-    - m_start_Decal0: 0
+    - m_start_Decal0: 1
     - m_start_Decal0AudioLink: 0
     - m_start_Decal1: 0
     - m_start_Decal1AudioLink: 0
@@ -2945,7 +2945,7 @@ Material:
     - m_start_Decal2AudioLink: 0
     - m_start_Decal3: 0
     - m_start_Decal3AudioLink: 0
-    - m_start_DecalSection: 1
+    - m_start_DecalSection: 0
     - m_start_DepthBulge: 0
     - m_start_DetailOptions: 0
     - m_start_DistortionAudioLink: 0
@@ -2953,7 +2953,7 @@ Material:
     - m_start_FlipbookAudioLink: 0
     - m_start_Gameboy: 0
     - m_start_GlitterRandomStuff: 0
-    - m_start_GlobalMask: 1
+    - m_start_GlobalMask: 0
     - m_start_GlobalMaskDistanceM_0: 0
     - m_start_GlobalMaskDistanceM_1: 0
     - m_start_GlobalMaskDistanceM_10: 0
@@ -2978,15 +2978,15 @@ Material:
     - m_start_GlobalMaskOptions: 0
     - m_start_GlobalMaskTextures: 0
     - m_start_GlobalMaskVertexColors: 0
-    - m_start_GlobalThemeColor0: 0
-    - m_start_GlobalThemeColor1: 0
-    - m_start_GlobalThemeColor2: 0
-    - m_start_GlobalThemeColor3: 0
-    - m_start_GlobalThemes: 1
+    - m_start_GlobalThemeColor0: 1
+    - m_start_GlobalThemeColor1: 1
+    - m_start_GlobalThemeColor2: 1
+    - m_start_GlobalThemeColor3: 1
+    - m_start_GlobalThemes: 0
     - m_start_Iridescence: 0
     - m_start_IridescenceAudioLink: 0
     - m_start_LTCGI: 0
-    - m_start_MainHueShift: 1
+    - m_start_MainHueShift: 0
     - m_start_MainHueShiftGlobalMask: 0
     - m_start_MainVertexColors: 0
     - m_start_Matcap2: 0

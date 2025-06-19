@@ -8,10 +8,11 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Boots
-  m_Shader: {fileID: 4800000, guid: 5ca92f1e9fc35504aba297fd1acd62df, type: 3}
+  m_Shader: {fileID: 4800000, guid: ab86a91acafe23a44afb6ef3c70e0cc7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - COLOR_GRADING_HDR_3D
   - GEOM_TYPE_BRANCH
   - MOCHIE_PBR
@@ -22,16 +23,16 @@ Material:
   - _RIM2STYLE_POIYOMI
   - _RIMSTYLE_POIYOMI
   - _STOCHASTICMODE_DELIOT_HEITZ
-  m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2000
   stringTagMap:
+    AllLockedGUIDS: c37106e2a41fcce4e9dfdafde34ce9d1
     OriginalKeywords: COLOR_GRADING_HDR_3D GEOM_TYPE_BRANCH MOCHIE_PBR POI_MATCAP0
       VIGNETTE_MASKED _GLOSSYREFLECTIONS_OFF _LIGHTINGMODE_FLAT _RIM2STYLE_POIYOMI
       _RIMSTYLE_POIYOMI _STOCHASTICMODE_DELIOT_HEITZ
-    OriginalShader: .poiyomi/Old Versions/8.1/Poiyomi Toon
+    OriginalShader: .poiyomi/Poiyomi 8.1/Poiyomi Toon
     OriginalShaderGUID: 5ca92f1e9fc35504aba297fd1acd62df
     RenderType: Opaque
     _DecalBlendAlphaAnimated: 1
@@ -2466,7 +2467,7 @@ Material:
     - _Set_RimLightMaskChannel: 1
     - _Set_RimLightMaskUV: 0
     - _ShadeColor_Step: 0
-    - _ShaderOptimizerEnabled: 0
+    - _ShaderOptimizerEnabled: 1
     - _ShaderUIWarning0: -0
     - _ShaderUIWarning1: -0
     - _ShadingEnabled: 1

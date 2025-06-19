@@ -12,42 +12,43 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Accessories 1
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
-  - name: Sidelip Piercing
-    icon: {fileID: 2800000, guid: f780e7cc117394d40b96d884a33a78cb, type: 3}
-    type: 102
-    parameter:
-      name: sidelip
-    value: 1
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
-  - name: Nostril Piercing
-    icon: {fileID: 2800000, guid: 6751c06fdacc5cb45bcdb30389e93f8e, type: 3}
-    type: 102
-    parameter:
-      name: nostril
-    value: 1
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
-  - name: 'Eyebrow Piercings '
+  - name: Septum Piercing
     icon: {fileID: 2800000, guid: 6aa79f07d02c8f749b0c9a7260671e38, type: 3}
     type: 102
     parameter:
-      name: eyebrowp
+      name: septum
     value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Bracelets
-    icon: {fileID: 2800000, guid: 7e1d8eb05ab42fb4bb42cee2191eab9f, type: 3}
+  - name: Snake Bites Piercing
+    icon: {fileID: 2800000, guid: f780e7cc117394d40b96d884a33a78cb, type: 3}
     type: 102
     parameter:
-      name: bracciali
+      name: snake
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Strap Top
+    icon: {fileID: 2800000, guid: ad953edfe1178e649a8ad4e60f1ba83c, type: 3}
+    type: 102
+    parameter:
+      name: strapschest
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Straps Arm
+    icon: {fileID: 2800000, guid: ad953edfe1178e649a8ad4e60f1ba83c, type: 3}
+    type: 102
+    parameter:
+      name: strapsarm
     value: 1
     style: 0
     subMenu: {fileID: 0}
@@ -58,7 +59,7 @@ MonoBehaviour:
     type: 102
     parameter:
       name: hats
-    value: 1
+    value: 2
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
@@ -68,7 +69,7 @@ MonoBehaviour:
     type: 102
     parameter:
       name: hats
-    value: 2
+    value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []

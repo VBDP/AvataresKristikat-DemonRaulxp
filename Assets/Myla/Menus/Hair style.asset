@@ -12,12 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Hair style
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
-  - name: Hair Style
-    icon: {fileID: 2800000, guid: 3e8f8124732ff604ea7de3abcbf32af0, type: 3}
+  - name: Pony Tail
+    icon: {fileID: 2800000, guid: 19986e0388f09ad4ca9dc9f35a239d95, type: 3}
     type: 102
     parameter:
-      name: hair
+      name: hairstyle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Change Hair Front
+    icon: {fileID: 2800000, guid: f6149703b90e1b546b7d25c2a7d77d04, type: 3}
+    type: 102
+    parameter:
+      name: hairfront
     value: 1
     style: 0
     subMenu: {fileID: 0}
@@ -32,7 +43,7 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: hairbr
+    - name: hairrightcolor
     labels: []
   - name: Hue Right Side
     icon: {fileID: 2800000, guid: 8f1599b171aad524da080dfd8999983d, type: 3}
@@ -43,7 +54,7 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: hairhuer
+    - name: hairrightcolorhue
     labels: []
   - name: Color Left Side
     icon: {fileID: 2800000, guid: 5f65609611461814babedcfaf56fdc0e, type: 3}
@@ -54,7 +65,7 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: hairbl
+    - name: hairleftcolor
     labels: []
   - name: Hue Left Side
     icon: {fileID: 2800000, guid: 8f1599b171aad524da080dfd8999983d, type: 3}
@@ -65,9 +76,9 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: hairhuel
+    - name: hairleftcolorhue
     labels: []
-  - name: Page2
+  - name: 2 Page
     icon: {fileID: 2800000, guid: a4cca9de116dcb749adc371e21224c10, type: 3}
     type: 103
     parameter:

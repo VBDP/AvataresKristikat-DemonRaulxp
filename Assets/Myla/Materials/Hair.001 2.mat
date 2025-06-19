@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hair.001 2
-  m_Shader: {fileID: 4800000, guid: 10a467566383f684b84eb1bf4c166c56, type: 3}
+  m_Shader: {fileID: 4800000, guid: edf984a05735dee46a341e6748341444, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -2810,7 +2810,7 @@ Material:
     - _EmissionAL2StrengthMod: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionAL3Multipliers: {r: 1, g: 1, b: 0, a: 0}
     - _EmissionAL3StrengthMod: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0.5343281, g: 0.35294116, b: 0.99215686, a: 1}
+    - _EmissionColor: {r: 0.99215686, g: 0.3529412, b: 0.4627451, a: 1}
     - _EmissionColor1: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor2: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor3: {r: 1, g: 1, b: 1, a: 1}

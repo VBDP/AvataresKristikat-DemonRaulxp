@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Pants 3
-  m_Shader: {fileID: 4800000, guid: cacb176a723ef264fa5452c5a7356b98, type: 3}
+  m_Shader: {fileID: 4800000, guid: 9530725819784294bb10f7f29dd55f95, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -36,7 +36,6 @@ Material:
     OriginalShader: .poiyomi/Old Versions/8.1/Poiyomi Toon
     OriginalShaderGUID: 5ca92f1e9fc35504aba297fd1acd62df
     RenderType: Opaque
-    _EmissionStrengthAnimated: 1
   disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:

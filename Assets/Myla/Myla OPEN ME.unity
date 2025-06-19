@@ -221,80 +221,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3374635291375449107}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1315626875
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 9125306631230954578}
-    m_Modifications:
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.746
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755638, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_Name
-      value: GogoLoco Beyond (VRCFury)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c901be5fd0387e04a86ff8d3496cfbcc, type: 3}
---- !u!4 &1315626876 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-    type: 3}
-  m_PrefabInstance: {fileID: 1315626875}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1351608139
 GameObject:
   m_ObjectHideFlags: 0
@@ -539,80 +465,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
---- !u!1001 &2078670745
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 3374635291375449110}
-    m_Modifications:
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1227330909385755638, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-        type: 3}
-      propertyPath: m_Name
-      value: GogoLoco Beyond (VRCFury)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c901be5fd0387e04a86ff8d3496cfbcc, type: 3}
---- !u!4 &2078670746 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1227330909385755637, guid: c901be5fd0387e04a86ff8d3496cfbcc,
-    type: 3}
-  m_PrefabInstance: {fileID: 2078670745}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3374635291375449107
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1092,18 +944,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1215096973}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 303061419927470796, guid: ce96458153aa8394b888ae831041b389, type: 3}
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 64584376933319045, guid: ce96458153aa8394b888ae831041b389,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2078670746}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7880400961105104202, guid: ce96458153aa8394b888ae831041b389,
         type: 3}
       insertIndex: 3
       addedObject: {fileID: 3374635291375449109}
+    - targetCorrespondingSourceObject: {fileID: 7880400961105104202, guid: ce96458153aa8394b888ae831041b389,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3374635291375449110}
   m_SourcePrefab: {fileID: 100100000, guid: ce96458153aa8394b888ae831041b389, type: 3}
 --- !u!1 &3374635291375449108 stripped
 GameObject:
@@ -1125,16 +976,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: avtr_7533522b-6b97-4203-abcf-34cb6f86dcf8
   contentType: 0
   assetBundleUnityVersion: 
   fallbackStatus: 0
---- !u!4 &3374635291375449110 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 64584376933319045, guid: ce96458153aa8394b888ae831041b389,
-    type: 3}
-  m_PrefabInstance: {fileID: 3374635291375449107}
+--- !u!114 &3374635291375449110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3374635291375449108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45da21a324e147228aaee066e399bff0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  platformOverrides: []
 --- !u!1001 &9125306631230954575
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1429,18 +1287,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 2322376906237803456, guid: 160c36c237f87f14b9be66a59e7efbf9, type: 3}
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 7307706381039055674, guid: 160c36c237f87f14b9be66a59e7efbf9,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1315626876}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1087254892906252561, guid: 160c36c237f87f14b9be66a59e7efbf9,
         type: 3}
       insertIndex: 3
       addedObject: {fileID: 9125306631230954577}
+    - targetCorrespondingSourceObject: {fileID: 1087254892906252561, guid: 160c36c237f87f14b9be66a59e7efbf9,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9125306631230954578}
   m_SourcePrefab: {fileID: 100100000, guid: 160c36c237f87f14b9be66a59e7efbf9, type: 3}
 --- !u!1 &9125306631230954576 stripped
 GameObject:
@@ -1462,16 +1319,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: avtr_7533522b-6b97-4203-abcf-34cb6f86dcf8
   contentType: 0
   assetBundleUnityVersion: 
-  fallbackStatus: 0
---- !u!4 &9125306631230954578 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7307706381039055674, guid: 160c36c237f87f14b9be66a59e7efbf9,
-    type: 3}
-  m_PrefabInstance: {fileID: 9125306631230954575}
+  fallbackStatus: 1
+--- !u!114 &9125306631230954578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9125306631230954576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45da21a324e147228aaee066e399bff0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  platformOverrides: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

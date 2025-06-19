@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: textures
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Jacket Tex
     icon: {fileID: 2800000, guid: d17edb306364f9040a2a4fe8a679aa27, type: 3}
@@ -24,7 +25,7 @@ MonoBehaviour:
     subParameters:
     - name: jackettex
     labels: []
-  - name: Shirt Tex
+  - name: Top Tex
     icon: {fileID: 2800000, guid: ecea0e6bdb552ba4ba7e334871881546, type: 3}
     type: 203
     parameter:
@@ -33,7 +34,7 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: shirttex
+    - name: toptex
     labels: []
   - name: Pants Tex
     icon: {fileID: 2800000, guid: a9b38046e336e804fb78893f8eb233b5, type: 3}
@@ -50,13 +51,13 @@ MonoBehaviour:
     icon: {fileID: 2800000, guid: 46166027fa1925e4dabcea4b583c78eb, type: 3}
     type: 102
     parameter:
-      name: redshoes
+      name: shoestex
     value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Hoodie Tex
+  - name: Shorts Tex
     icon: {fileID: 2800000, guid: b11987bee704a7143b2f6faac344e565, type: 3}
     type: 203
     parameter:
@@ -65,10 +66,21 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: hoodietex
+    - name: shortstex
+    labels: []
+  - name: Skirt Tex
+    icon: {fileID: 2800000, guid: 3664bd2850fbe0e4f80b4501293f7137, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: skirttex
     labels: []
   - name: Hue Outfit
-    icon: {fileID: 2800000, guid: fc239b868ef86f94087bad300518901e, type: 3}
+    icon: {fileID: 2800000, guid: a8b2bac8523ba074999c81cb867c4c13, type: 3}
     type: 203
     parameter:
       name: 
@@ -76,20 +88,9 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: hueoutfit
+    - name: huered
     labels: []
-  - name: Jeans Tex
-    icon: {fileID: 2800000, guid: 80365853ac0cbc143bab902817ef53de, type: 3}
-    type: 203
-    parameter:
-      name: 
-    value: 1
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters:
-    - name: jeanstex
-    labels: []
-  - name: 2 Page
+  - name: Page 2
     icon: {fileID: 2800000, guid: a4cca9de116dcb749adc371e21224c10, type: 3}
     type: 103
     parameter:

@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Outfit 1
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
-  - name: Jeans
-    icon: {fileID: 2800000, guid: d470ab83d707f364d8defd3c92983292, type: 3}
+  - name: Boots
+    icon: {fileID: 2800000, guid: 47d12f04ea989ff4490a9984b7c4003f, type: 3}
     type: 102
     parameter:
-      name: jeans
-    value: 2
+      name: shoes
+    value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
@@ -28,16 +29,16 @@ MonoBehaviour:
     type: 102
     parameter:
       name: shoes
-    value: 1
+    value: 2
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Boots
-    icon: {fileID: 2800000, guid: 18bde42a7e7e8b84fab5b569a8cbf0f2, type: 3}
+  - name: Fishnet
+    icon: {fileID: 2800000, guid: bc13be4e50941ab4686af0dac02216e8, type: 3}
     type: 102
     parameter:
-      name: shoes
+      name: socks
     value: 2
     style: 0
     subMenu: {fileID: 0}
@@ -53,13 +54,14 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Boxer
-    icon: {fileID: 2800000, guid: f97d90f2d2666b345bf0bca931ab217c, type: 3}
-    type: 102
+  - name: Socks Opacity
+    icon: {fileID: 2800000, guid: b2cd88404c779544fb1058ad5afc198e, type: 3}
+    type: 203
     parameter:
-      name: jeans
-    value: 3
+      name: 
+    value: 1
     style: 0
     subMenu: {fileID: 0}
-    subParameters: []
+    subParameters:
+    - name: opacitysocks
     labels: []

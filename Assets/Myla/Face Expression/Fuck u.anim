@@ -19,7 +19,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -22.241, y: 20.306, z: 38.505}
+        value: {x: -19.528, y: 35.212, z: 43.942}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -29,13 +29,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -22.241, y: -20.306, z: -38.505}
+        value: {x: -19.693, y: -34.922, z: -44.486}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -45,14 +45,14 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
   m_PositionCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.050373033, y: 0.03227294, z: -0.002528714}
+        value: {x: -0.039057598, y: 0.070626125, z: 0.005229503}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -62,13 +62,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.050860472, y: 0.032275755, z: -0.002528714}
+        value: {x: 0.03905789, y: 0.07062446, z: 0.005228907}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -78,7 +78,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
   m_ScaleCurves: []
   m_FloatCurves:
   - serializedVersion: 2
@@ -363,7 +363,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 3432446771
+      path: 2041367368
       attribute: 1
       script: {fileID: 0}
       typeID: 4
@@ -372,7 +372,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 916047440
+      path: 2208560683
       attribute: 1
       script: {fileID: 0}
       typeID: 4
@@ -381,7 +381,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3432446771
+      path: 2041367368
       attribute: 4
       script: {fileID: 0}
       typeID: 4
@@ -390,7 +390,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 916047440
+      path: 2208560683
       attribute: 4
       script: {fileID: 0}
       typeID: 4
@@ -816,7 +816,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.050373033
+        value: -0.039057598
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -827,7 +827,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -837,7 +837,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.03227294
+        value: 0.070626125
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -848,7 +848,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -858,7 +858,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.002528714
+        value: 0.005229503
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -869,7 +869,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -879,7 +879,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -22.241
+        value: -19.528
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -890,7 +890,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -900,7 +900,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 20.306
+        value: 35.212
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -911,7 +911,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -921,7 +921,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 38.505
+        value: 43.942
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -932,7 +932,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -942,7 +942,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.050860472
+        value: 0.03905789
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -953,7 +953,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -963,7 +963,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.032275755
+        value: 0.07062446
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -974,7 +974,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -984,7 +984,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.002528714
+        value: 0.005228907
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -995,7 +995,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1005,7 +1005,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -22.241
+        value: -19.693
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1016,7 +1016,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -1026,7 +1026,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -20.306
+        value: -34.922
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1037,7 +1037,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -1047,7 +1047,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -38.505
+        value: -44.486
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1058,7 +1058,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -1071,7 +1071,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1083,7 +1083,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1095,7 +1095,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_L
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1107,7 +1107,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1119,7 +1119,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1131,7 +1131,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Ears_Parent/Ears_Upper/Ears_UP_R
+    path: Armature/Hips/Spine/Chest/Neck/Head/Root_Ears_Up/Ears_UP_L
     classID: 4
     script: {fileID: 0}
     flags: 0

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Pasties
-  m_Shader: {fileID: 4800000, guid: 971e7f57bbac0dc4185ca7cf80345556, type: 3}
+  m_Shader: {fileID: 4800000, guid: f0ad8c57f262c88438192ae206415700, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []

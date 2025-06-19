@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Emote
-  m_Shader: {fileID: 4800000, guid: f31effbf43eefdd469c3a0c67ccd6fc6, type: 3}
+  m_Shader: {fileID: 4800000, guid: 83b592680e7bd374598e469658235f4c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -864,7 +864,7 @@ Material:
     - _CubeMapReplace: 1
     - _CubeMapUVMode: 1
     - _CubeMapWorldNormalsStrength: 1
-    - _Cull: 2
+    - _Cull: 0
     - _CurvFix: 1
     - _CurvatureU: 0
     - _CurvatureV: 0
@@ -2556,8 +2556,8 @@ Material:
     - m_end_videoEffects: 0
     - m_lightingCategory: 1
     - m_mainCategory: 1
-    - m_modifierCategory: 0
-    - m_postprocessing: 0
+    - m_modifierCategory: 1
+    - m_postprocessing: 1
     - m_renderingCategory: 1
     - m_specialFXCategory: 1
     - m_start_ALDecalSpectrum: 0
@@ -2578,7 +2578,7 @@ Material:
     - m_start_Decal2AudioLink: 0
     - m_start_Decal3: 0
     - m_start_Decal3AudioLink: 0
-    - m_start_DecalSection: 0
+    - m_start_DecalSection: 1
     - m_start_DepthBulge: 0
     - m_start_DetailOptions: 0
     - m_start_DistortionAudioLink: 0
@@ -2603,18 +2603,18 @@ Material:
     - m_start_GlobalMaskDistanceM_7: 0
     - m_start_GlobalMaskDistanceM_8: 0
     - m_start_GlobalMaskDistanceM_9: 0
-    - m_start_GlobalMaskModifiers: 0
+    - m_start_GlobalMaskModifiers: 1
     - m_start_GlobalMaskModifiersBackface: 0
     - m_start_GlobalMaskModifiersCamera: 0
     - m_start_GlobalMaskModifiersDistance: 0
     - m_start_GlobalMaskModifiersMirror: 0
     - m_start_GlobalMaskOptions: 0
     - m_start_GlobalMaskTextures: 1
-    - m_start_GlobalThemeColor0: 0
-    - m_start_GlobalThemeColor1: 0
-    - m_start_GlobalThemeColor2: 0
-    - m_start_GlobalThemeColor3: 0
-    - m_start_GlobalThemes: 0
+    - m_start_GlobalThemeColor0: 1
+    - m_start_GlobalThemeColor1: 1
+    - m_start_GlobalThemeColor2: 1
+    - m_start_GlobalThemeColor3: 1
+    - m_start_GlobalThemes: 1
     - m_start_Iridescence: 0
     - m_start_IridescenceAudioLink: 0
     - m_start_MainHueShift: 0
@@ -2624,8 +2624,8 @@ Material:
     - m_start_Matcap3: 0
     - m_start_Matcap4: 0
     - m_start_PathAudioLink: 0
-    - m_start_PoiLightData: 0
-    - m_start_PoiShading: 0
+    - m_start_PoiLightData: 1
+    - m_start_PoiShading: 1
     - m_start_RGBAColors: 0
     - m_start_RGBMask: 1
     - m_start_Rim2AudioLink: 0
@@ -2634,7 +2634,7 @@ Material:
     - m_start_StencilPassBackOptions: 0
     - m_start_StencilPassFrontOptions: 0
     - m_start_StencilPassOptions: 0
-    - m_start_Stochastic: 0
+    - m_start_Stochastic: 1
     - m_start_Text: 0
     - m_start_TextFPS: 0
     - m_start_TextInstanceTime: 0
@@ -2666,7 +2666,7 @@ Material:
     - m_start_emission3Options: 0
     - m_start_emissionOptions: 1
     - m_start_flipBook: 0
-    - m_start_glitter: 0
+    - m_start_glitter: 1
     - m_start_internalparallax: 0
     - m_start_matcap: 1
     - m_start_mirrorOptions: 0
@@ -2683,13 +2683,13 @@ Material:
     - m_start_subsurfaceScattering: 0
     - m_start_udimdiscardOptions: 0
     - m_start_uvDistortion: 0
-    - m_start_uvLocalWorld: 0
-    - m_start_uvPanosphere: 0
-    - m_start_uvPolar: 0
+    - m_start_uvLocalWorld: 1
+    - m_start_uvPanosphere: 1
+    - m_start_uvPolar: 1
     - m_start_vertexGlitching: 0
     - m_start_vertexManipulation: 0
     - m_start_videoEffects: 0
-    - m_thirdpartyCategory: 0
+    - m_thirdpartyCategory: 1
     - shader_is_using_thry_editor: 69
     - shader_locale: 0
     - shader_master_label: 0

@@ -12,7 +12,30 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Body
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
+  - name: Boobs Radial
+    icon: {fileID: 2800000, guid: eb0a5e4b58258944882d346b8f66cd7c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: boobs
+    labels: []
+  - name: Butt Radial
+    icon: {fileID: 2800000, guid: f20744eac8556ae409908b993ad4b56c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: ass
+    labels: []
   - name: Skin Color
     icon: {fileID: 2800000, guid: 359cd5e88b594ef468533526ff529b36, type: 3}
     type: 203
@@ -24,8 +47,8 @@ MonoBehaviour:
     subParameters:
     - name: blackskin
     labels: []
-  - name: No Abs
-    icon: {fileID: 2800000, guid: f234f35a86ec78644b5e896251cc0670, type: 3}
+  - name: Abs
+    icon: {fileID: 2800000, guid: ef86058788f4c454e98722e6585cefd1, type: 3}
     type: 102
     parameter:
       name: abs
@@ -34,11 +57,32 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
+  - name: Long Fingernails
+    icon: {fileID: 2800000, guid: da8db7835efe1884a8eaa6981833cfdf, type: 3}
+    type: 102
+    parameter:
+      name: nailslong
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Nails Opacity
+    icon: {fileID: 2800000, guid: 73d28681dff6ec845a35d2b39ce2639d, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: opnails
+    labels: []
   - name: Scar Face
     icon: {fileID: 2800000, guid: 3accc98a323873746854edb65d300f4a, type: 3}
     type: 102
     parameter:
-      name: scar
+      name: scarface
     value: 1
     style: 0
     subMenu: {fileID: 0}

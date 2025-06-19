@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bucket Hat
-  m_Shader: {fileID: 4800000, guid: 05b3b161cb9d04845a864ff0fbbf1a11, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3568b111c02869c4c84048e942acf62f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []

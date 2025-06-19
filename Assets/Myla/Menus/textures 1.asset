@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: textures 1
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Tex Mask
-    icon: {fileID: 2800000, guid: 97af7a443ea7e9742a2b68597bc060f0, type: 3}
+    icon: {fileID: 2800000, guid: 1b3d74635f0f25c45980d41206c6e181, type: 3}
     type: 203
     parameter:
       name: 
@@ -22,7 +23,7 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: masktex
+    - name: texmask
     labels: []
   - name: Tex Sweater
     icon: {fileID: 2800000, guid: c48eebcc0ea04754a99e495c095d7bbb, type: 3}
@@ -44,23 +45,23 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 0}
     subParameters:
-    - name: swehue
+    - name: hueswe
     labels: []
   - name: White Hats
     icon: {fileID: 2800000, guid: cc1cffdccb6d15a458c305df161ffe30, type: 3}
     type: 102
     parameter:
-      name: hatsw
+      name: whitehats
     value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
   - name: Boots White
-    icon: {fileID: 2800000, guid: 18bde42a7e7e8b84fab5b569a8cbf0f2, type: 3}
+    icon: {fileID: 2800000, guid: f2e47c27ab66230498dec50e68b4d2ef, type: 3}
     type: 102
     parameter:
-      name: bootsw
+      name: bootstex
     value: 1
     style: 0
     subMenu: {fileID: 0}
